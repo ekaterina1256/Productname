@@ -1,0 +1,52 @@
+#tf {
+    background-color: #325b73;
+    background-size: 100%;
+}
+#df{
+    background-color: #ffffff;
+    background-size: 100%;
+}
+#df:before {
+    margin-right: 5px;
+}
+#tf:before {
+    margin-right: 5px;
+}
+#ty {
+    color: #0d232d;
+    padding-right: 10px;
+}
+ol {
+    list-style-type: upper-alpha; /* Заглавные буквы */
+}
+.fa-check {
+    color: white;
+}
+#tf h1{
+    color: aliceblue;
+}
+#tf {
+    max-width: 500px;
+    margin: auto;
+}
+#df {
+    max-width: 500px;
+    margin: auto;
+}
+body, html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    /*noinspection CssUnknownTarget*/
+    background-image: url("img 3012-800x800.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
